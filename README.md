@@ -10,7 +10,7 @@ This repo currently contains the starter files.
 
 Clone repo and create a virtual environment
 ```
-$ git clone 
+$ git clone https://github.com/aditya9408/Chatbot.git
 $ cd chatbot-deployment
 $ python3 -m venv venv
 $ .\\venv\\Scripts\\Activate
